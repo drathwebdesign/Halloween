@@ -896,6 +896,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   patrolRadius: 10
   patrolWaitTime: 5
+  detectionAngle: 120
+  detectionDistance: 7.5
+  lostSightDuration: 5
 --- !u!195 &373768996
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -2009,6 +2012,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   patrolRadius: 10
   patrolWaitTime: 5
+  detectionAngle: 120
+  detectionDistance: 7.5
+  lostSightDuration: 5
 --- !u!195 &623354792
 NavMeshAgent:
   m_ObjectHideFlags: 0
